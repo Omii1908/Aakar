@@ -4,6 +4,16 @@
 The Library Management System is a software application designed to manage the operations of a library. It provides functionalities for managing books, members, and transactions. The system uses Java for the frontend and Oracle SQL for the backend to store and manage data.
 
 
+## Table of Contents
+
+- Features
+- Tech Stack
+- Installation
+- Usage
+- Screenshots
+- Contributing
+
+
 ## Features
 
 - **Book Management:** Add, update, delete, and search for books.
