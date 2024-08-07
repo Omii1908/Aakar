@@ -32,4 +32,4 @@ If you would like to contribute to this repository, please follow these steps:
 6. Open a pull request.
 
 
-Thank you for visiting my Manthan repository! I hope you find something useful here.
+Thank you for visiting my repository! I hope you find something useful here.
