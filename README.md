@@ -1,6 +1,6 @@
-# sva_sangraha
+# Manthan
 
-Welcome to my sva sangraha(**“Personal Collection”** in English) repository! This repository contains a variety of projects that I have created or collected over time. Feel free to explore and use any of the content here.
+Welcome to my Manthan(**“churning”** in English) repository! This repository contains a variety of projects that I have created or collected over time. Feel free to explore and use any of the content here.
 
 ## Table of Contents
 
@@ -32,4 +32,4 @@ If you would like to contribute to this repository, please follow these steps:
 6. Open a pull request.
 
 
-Thank you for visiting my sva sangraha repository! I hope you find something useful here.
+Thank you for visiting my Manthan repository! I hope you find something useful here.
