@@ -1,96 +1,32 @@
 
-# LIBRARY MANAGEMENT SYSTEM
+# Project-FR
 
-The Library Management System is a software application designed to manage the operations of a library. It provides functionalities for managing books, members, and transactions. The system uses Java for the frontend and Oracle SQL for the backend to store and manage data.
-
-
-## Table of Contents
-
-- Features
-- Tech Stack
-- Installation
-- Usage
-- Screenshots
-- Contributing
+This project demonstrates face recognition using Principal Component Analysis (PCA). By applying PCA, we reduce the dimensionality of facial features while retaining essential information. The goal is to accurately recognize faces based on a smart system trained on a dataset.
 
 
-## Features
+## Implementation and Results
 
-- **Book Management:** Add, update, delete, and search for books.
-- **Member Management:** Register new members, update member information, and manage member records.
-- **Transaction Management:** Issue and return books, track due dates, and manage fines.
-- **Search Functionality:** Search for books and members using various criteria.
-- **Reports:** Generate reports on book availability, member activity, and transaction history.
+- **Data Preprocessing:**
+    - Convert colored images to grayscale.
+    - Standardize the data (mean = 0, variance = 1).
 
+- **PCA Steps:**
+    1. Compute the covariance matrix of the standardized data.
+    2. Find the eigenvalues and eigenvectors.
+    3. Sort the eigenvectors by their corresponding eigenvalues.
+    4. Select the top-k eigenvectors as principal components.
 
-## Tech Stack
+- **Face Recognition:**
+    - Project face images onto the selected principal components.
+    - Measure similarity (e.g., Euclidean distance) between projected faces.
+    - Compare test faces with known patterns in the database.
 
-**Frontend:**  Java 
-
-**Backend:**  Oracle SQL
-
-**IDE:**  IntelliJ IDEA / Eclipse
-
-**Database Connectivity:**  JDBC
-
-
-## Installation
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- Oracle Database
-- JDBC Driver for Oracle
-- Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
-
-
-### Steps
-
-1. Clone the Repository:
-
-```bash
-  git clone https://github.com/Omii1908/Manthan
-
-```
-2. Set Up the Database:
-
-- Create a new database in Oracle.
-- Run the SQL scripts provided in the database folder to create the necessary tables and insert initial data.
-
-3. Configure Database Connection:
-
-- Update the database connection settings in the db.properties file with your Oracle database credentials.
-
-
-4. Build and Run the Application:
-
-- Open the project in your IDE.
-- Build the project to resolve dependencies.
-- Run the Main.java file to start the application.
-
-
-## Usage
-
-1. **Login:** Use the admin credentials to log in to the system.
-
-2. **Manage Books:** Navigate to the Books section to add, update, delete, or search for books.
-
-3. **Manage Members:** Navigate to the Members section to register new members or update member information.
-
-4. **Issue/Return Books:** Use the Transactions section to issue or return books and manage due dates and fines.
-
-5. **Generate Reports:** Access the Reports section to generate and view various reports.
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+- **Results Visualization:**
+    - Display cool pictures showing the most important facial features captured by the smart system.
+    - Showcase accurate predictions and results in a picture gallery.
 ## Contributing
 
-Contributions are welcome! 
+Contributions are always welcome!
 
-Please fork the repository and create a pull request with your changes.
+If you find any issues or want to enhance the project, feel free to submit a pull request.
 
-Ensure that your code follows the project’s coding standards and includes appropriate tests.
