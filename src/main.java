@@ -1,3 +1,4 @@
+package src;
 //IMPORTED JAVA LIBRARIES---
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
