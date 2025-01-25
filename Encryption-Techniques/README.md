@@ -1,6 +1,6 @@
 Encryption Techniques
 
-This repository contains various classical and modern encryption techniques implemented in C, including both symmetric and asymmetric encryption methods. Each encryption technique is accompanied by its decryption function for demonstration purposes.
+This folder contains various classical and modern encryption techniques implemented in C, including both symmetric and asymmetric encryption methods. Each encryption technique is accompanied by its decryption function for demonstration purposes.
 
 Table of Contents
 
