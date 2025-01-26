@@ -107,7 +107,7 @@ Usage Instructions
 
 1. Clone this repository:
 
-git clone https://github.com/username/error-detection.git
+git clone https://github.com/Omii1908/Manthan/tree/main/Error-Detection
 
 
 2. Navigate to the project directory:
