@@ -27,7 +27,7 @@
   - [Disjoint Set Union (DSU) / Union-Find]()
 - [Computer Security](#computer-security)
   - [Encryption and Decryption Techniques](#encryption-and-decryption-techniques)
-- [Java Projects](#java-projects)
+- [Java Programs & Projects](#java-projects)
   - [Library Management System](#library-management-system)
 - [Technologies Used](#technologies-used)
 - [Contributions](#contributions)
@@ -71,7 +71,7 @@ The security implementations aim to provide a foundational understanding of cryp
 
 ---
 
-## Java Projects
+## Java Programs & Projects 
 
 ### Library Management System
 
