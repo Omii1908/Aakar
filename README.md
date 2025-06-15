@@ -1,106 +1,122 @@
-# Manthan - The Repository of Fundamental Knowledge
+<h1 align="center">🔱 Manthan - The Repository of Fundamental Knowledge 🔱</h1>
 
-**Manthan** (मन्थन), derived from the Sanskrit word for "churning," is a repository that showcases my foundational knowledge and skills across various domains of computer science, including Data Structures and Algorithms (DSA), Computer Security (with a focus on encryption and decryption techniques), and programming in C and Java. This repository aims to provide a comprehensive understanding of these topics through practical projects and code implementations.
+<p align="center">
+  <em>“Manthan” (मन्थन) – Sanskrit for <strong>churning</strong> – symbolizes deep reflection, knowledge extraction, and relentless effort towards wisdom.</em>
+</p>
 
----
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
-  - [Array]()
-  - [Linked List]()
-  - [Tree]()
-  - [Graphs]()
-  - [Searching Algorithms]()
-  - [Sorting Algorthims]()
-  - [Bit Manipulation]()
-  - [Mathematical Algorithms]()
-  - [String Algorithms]()
-  - [Graph Algorithms]()
-  - [Divide & Conquer]()
-  - [Backtracking]()
-  - [Sliding Window]()
-  - [Greedy Algorithms]()
-  - [Dynamic Programming]()
-  - [Greedy + DP]()
-  - [Disjoint Set Union (DSU) / Union-Find]()
-- [Computer Security](#computer-security)
-  - [Encryption and Decryption Techniques](#encryption-and-decryption-techniques)
-- [Java Programs & Projects](#java-projects)
-  - [Library Management System](#library-management-system)
-- [Technologies Used](#technologies-used)
-- [Contributions](#contributions)
+<p align="center">
+  <b>This repository represents my foundation in core Computer Science concepts through well-structured code, mini-projects, and learning modules.</b>
+</p>
 
 ---
 
-## Introduction
+## 📚 Table of Contents
 
-The name *Manthan* refers to the ancient practice of churning, symbolizing the process of extracting knowledge by continuous effort and learning. This repository contains the core concepts that I have learned and applied in real-world projects, highlighting my progress in the fields of DSA, computer security, and full-stack Java development.
+- [📖 Introduction](#-introduction)
+- [📐 Data Structures and Algorithms (DSA)](#-data-structures-and-algorithms-dsa)
+- [🔐 Computer Security](#-computer-security)
+- [🧰 Java Programs & Projects](#-java-programs--projects)
+- [🛠️ Technologies Used](#-technologies-used)
+- [🤝 Contributions](#-contributions)
 
 ---
 
-## Data Structures and Algorithms (DSA)
+## 📖 Introduction
 
-This section contains my work on **Data Structures and Algorithms (DSA)**, where I have implemented fundamental data structures and algorithms to enhance problem-solving skills.
+In the spirit of *Manthan*, this repository is my personal effort to **extract clarity from complexity** by mastering core CS subjects like:
 
-### Key Concepts:
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees (Binary Trees, BST)
-- Graphs
-- Sorting and Searching Algorithms
+- **Data Structures & Algorithms (DSA)**
+- **Computer Security & Cryptography**
+- **Java-based Software Development**
+
+Each section is rooted in practice — not just theory — and reflects my journey as a learner aiming to solve real-world problems with clean and effective code.
+
+---
+
+## 📐 Data Structures and Algorithms (DSA)
+
+> ✍️ Implemented using **C** for performance and concept clarity.
+
+A solid foundation in DSA empowers problem-solving in any tech stack. This section contains well-organized code categorized by algorithmic strategies and data structure types.
+
+### 📂 Categories:
+- Arrays & Strings
+- Linked Lists (Singly, Doubly)
+- Trees (Binary Trees, BST, Traversals)
+- Graphs (DFS, BFS, Topological Sort)
+- Sorting (Merge, Quick, Heap, Insertion, etc.)
+- Searching (Binary Search, Linear)
+- Mathematical Algorithms (GCD, Prime Sieve, Modulo Tricks)
+- Bit Manipulation
+- Sliding Window & Two Pointers
+- Divide & Conquer
+- Backtracking & Recursion
+- Greedy Algorithms
 - Dynamic Programming
-
-The implementations are written in **C**, focusing on optimizing efficiency and understanding the underlying principles of each algorithm and data structure.
-
----
-
-## Computer Security
-
-In this section, I have demonstrated my knowledge in **Computer Security**, specifically focusing on the implementation of **encryption** and **decryption techniques** using **C**.
-
-### Encryption & Decryption Techniques:
-- **Caesar Cipher**: A substitution cipher that shifts characters in the alphabet.
-- **RSA Algorithm**: A public-key encryption technique for secure data transmission.
-- **AES (Advanced Encryption Standard)**: A symmetric key encryption standard used globally.
-
-The security implementations aim to provide a foundational understanding of cryptographic algorithms and their practical usage in securing data.
+- Union-Find / Disjoint Set Union (DSU)
 
 ---
 
-## Java Programs & Projects 
+## 🔐 Computer Security
 
-### Library Management System
+> 👨‍💻 Hands-on cryptography with **C** – understanding how data is protected.
 
-This project is an **object-oriented library management system** designed using **Java**. It serves as a real-world application to manage the inventory and operations of a library, including book checkouts, user registration, and fine management.
+This section explores practical cryptographic algorithms and how they secure digital communication. Algorithms are built from scratch for conceptual depth.
 
-#### Features:
-- User authentication (Admin and Member roles)
-- Book search and catalog management
-- Borrowing and returning books
-- Fine calculation for overdue books
-- Database management using file handling
+### 🔑 Techniques Covered:
+- 🔏 **Caesar Cipher** – Simple letter shifting
+- 🔐 **RSA Algorithm** – Public key cryptography
+- 🔒 **AES (Advanced Encryption Standard)** – Block cipher using symmetric keys
 
-This project demonstrates the practical use of **Java** in building functional and scalable applications.
+The goal here is to grasp **how security works under the hood**.
 
 ---
 
-## Technologies Used
+## 🧰 Java Programs & Projects
 
-- **C** for DSA and Computer Security implementations
-- **Java** for the Library Management System project
-- **Algorithms and Data Structures** for problem-solving
-- **Git** for version control
+### 📘 Library Management System (Java)
+
+A console-based, object-oriented Java project to manage a digital library. Built with file handling instead of a database to understand core Java features.
+
+#### 🔍 Features:
+- Role-based authentication (Admin/Member)
+- Add/search/borrow/return books
+- Late return fine calculation
+- File-based record storage
+
+> 📌 Demonstrates real-world application design with **OOP**, file handling, and modular code.
 
 ---
 
-## Contributions
+## 🛠️ Technologies Used
 
-Feel free to fork this repository, contribute by opening issues, or submit pull requests to enhance the functionality and knowledge base.
+| Language      | Usage                                      |
+|---------------|---------------------------------------------|
+| **C**         | DSA & Cryptography implementations          |
+| **Java**      | OOP Projects & Backend Programming          |
+| **Git/GitHub**| Version control, collaboration              |
 
 ---
 
-Thank you for exploring **Manthan**. I hope this repository reflects my commitment to building a strong foundation in computer science and software development.
+## 🤝 Contributions
+
+Want to contribute? Here’s how:
+- ⭐ Star the repo
+- 🍴 Fork and clone it
+- 🛠️ Add your ideas or improvements
+- 📬 Submit a Pull Request
+
+All contributions, suggestions, and code reviews are welcome!
+
+---
+
+### 🚀 Stay Connected
+- 🔗 [GitHub](https://github.com/Omii1908)
+- 💼 [LinkedIn](https://linkedin.com/in/Omii844198)
+- 📸 [Instagram](https://instagram.com/0m___19o8)
+
+---
+
+<p align="center"><b>“Knowledge gained through effort is wisdom earned through churning.”</b></p>
+
+<p align="center">🌀 <i>Keep Churning, Keep Learning.</i></p>
