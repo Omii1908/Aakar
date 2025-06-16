@@ -1,11 +1,11 @@
-<h1 align="center">🔱 Manthan - The Repository of Fundamental Knowledge 🔱</h1>
+<h1 align="center">🧱 Aakar - The Foundation of Computer Science 🧱</h1>
 
 <p align="center">
-  <em>“Manthan” (मन्थन) – Sanskrit for <strong>churning</strong> – symbolizes deep reflection, knowledge extraction, and relentless effort towards wisdom.</em>
+  <em>“Aakar” (आकार) – Sanskrit for <strong>structure or form</strong> – represents the essential building blocks of knowledge, clarity in thought, and the solid base upon which innovation stands.</em>
 </p>
 
 <p align="center">
-  <b>This repository represents my foundation in core Computer Science concepts through well-structured code, mini-projects, and learning modules.</b>
+  <b>This repository is a curated collection of my core Computer Science learning, featuring cleanly written code, conceptual modules, and hands-on mini-projects.</b>
 </p>
 
 ---
@@ -18,105 +18,118 @@
 - [🧰 Java Programs & Projects](#-java-programs--projects)
 - [🛠️ Technologies Used](#-technologies-used)
 - [🤝 Contributions](#-contributions)
+- [🚀 Stay Connected](#-stay-connected)
 
 ---
 
 ## 📖 Introduction
 
-In the spirit of *Manthan*, this repository is my personal effort to **extract clarity from complexity** by mastering core CS subjects like:
+**Aakar** is my structured approach to mastering the core pillars of Computer Science and Software Development. This includes:
 
-- **Data Structures & Algorithms (DSA)**
-- **Computer Security & Cryptography**
-- **Java-based Software Development**
+- 📚 Data Structures & Algorithms (DSA)
+- 🧠 Object-Oriented Programming (OOP)
+- 🧮 Discrete Mathematics & Logic
+- 💾 Operating Systems, DBMS & Networking Basics
+- 💡 Problem-solving through coding challenges
+- 🧪 Mini-projects for practical understanding
 
-Each section is rooted in practice — not just theory — and reflects my journey as a learner aiming to solve real-world problems with clean and effective code.
+> This repository is built not just for revision but also to help other learners with beginner-friendly and modular implementations.
 
 ---
 
 ## 📐 Data Structures and Algorithms (DSA)
 
-> ✍️ Implemented using **C** for performance and concept clarity.
+> ✍️ Implemented using **C** for performance and conceptual depth.
 
-A solid foundation in DSA empowers problem-solving in any tech stack. This section contains well-organized code categorized by algorithmic strategies and data structure types.
+A well-organized collection of commonly used data structures and algorithms, focusing on logic-building, optimization, and problem-solving patterns.
 
-### 📂 Categories:
-- Arrays & Strings
-- Linked Lists (Singly, Doubly)
-- Trees (Binary Trees, BST, Traversals)
-- Graphs (DFS, BFS, Topological Sort)
-- Sorting (Merge, Quick, Heap, Insertion, etc.)
-- Searching (Binary Search, Linear)
-- Mathematical Algorithms (GCD, Prime Sieve, Modulo Tricks)
-- Bit Manipulation
-- Sliding Window & Two Pointers
-- Divide & Conquer
-- Backtracking & Recursion
-- Greedy Algorithms
-- Dynamic Programming
-- Union-Find / Disjoint Set Union (DSU)
+### 📂 Topics Covered:
+
+- 📏 Arrays & Strings
+- 🧵 Linked Lists (Singly, Doubly, Circular)
+- 🌳 Trees (Binary Trees, BST, Tree Traversals)
+- 🌐 Graphs (DFS, BFS, Topological Sort, Cycle Detection)
+- 🔄 Sorting Algorithms (Merge, Quick, Heap, Bubble, Insertion, Selection)
+- 🔍 Searching Algorithms (Binary Search, Linear Search)
+- ➗ Mathematical Algorithms (GCD, LCM, Prime Sieve, Modular Exponentiation)
+- 🧠 Bit Manipulation
+- 🪟 Sliding Window, Two Pointers
+- 📐 Divide & Conquer
+- 🔁 Backtracking & Recursion
+- 💰 Greedy Algorithms
+- 🧬 Dynamic Programming (Memoization & Tabulation)
+- 🧩 Disjoint Set Union (Union-Find)
+
+> ✅ Each topic includes comments and structured folder hierarchy for better readability.
 
 ---
 
 ## 🔐 Computer Security
 
-> 👨‍💻 Hands-on cryptography with **C** – understanding how data is protected.
-
-This section explores practical cryptographic algorithms and how they secure digital communication. Algorithms are built from scratch for conceptual depth.
+> 👨‍💻 Core cryptographic techniques implemented in **C**, built from scratch to understand how encryption really works under the hood.
 
 ### 🔑 Techniques Covered:
-- 🔏 **Caesar Cipher** – Simple letter shifting
-- 🔐 **RSA Algorithm** – Public key cryptography
-- 🔒 **AES (Advanced Encryption Standard)** – Block cipher using symmetric keys
 
-The goal here is to grasp **how security works under the hood**.
+- **Caesar Cipher** – Basic substitution technique
+- **RSA Algorithm** – Asymmetric encryption using public/private keys
+- **AES (Advanced Encryption Standard)** – Introduction to symmetric key encryption using block ciphers
+
+> 🔐 Each implementation highlights key operations like key generation, modular arithmetic, and message encoding/decoding.
 
 ---
 
 ## 🧰 Java Programs & Projects
 
-### 📘 Library Management System (Java)
+### 📘 Library Management System – Java Console Application
 
-A console-based, object-oriented Java project to manage a digital library. Built with file handling instead of a database to understand core Java features.
+A command-line based library system that demonstrates Java programming using OOP and file handling (no database used).
 
 #### 🔍 Features:
-- Role-based authentication (Admin/Member)
-- Add/search/borrow/return books
-- Late return fine calculation
-- File-based record storage
 
-> 📌 Demonstrates real-world application design with **OOP**, file handling, and modular code.
+- 📛 Role-based access: Admin & Member
+- 📚 Book management: Add, view, search, borrow, return
+- 📅 Fine calculation for late returns
+- 🗂️ Persistent file-based data storage
+- 🧱 Modular & maintainable code
+
+> 📌 A practical way to learn OOP principles, control structures, and working with file systems.
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Language      | Usage                                      |
-|---------------|---------------------------------------------|
-| **C**         | DSA & Cryptography implementations          |
-| **Java**      | OOP Projects & Backend Programming          |
-| **Git/GitHub**| Version control, collaboration              |
+| Technology     | Purpose                                     |
+|----------------|---------------------------------------------|
+| **C**          | DSA, Cryptographic Algorithms                |
+| **Java**       | OOP Projects, System Applications            |
+| **Git & GitHub**| Version Control, Collaboration              |
+| **VS Code**    | Primary IDE for C and Java development       |
 
 ---
 
 ## 🤝 Contributions
 
-Want to contribute? Here’s how:
-- ⭐ Star the repo
-- 🍴 Fork and clone it
-- 🛠️ Add your ideas or improvements
-- 📬 Submit a Pull Request
+Your suggestions, fixes, and ideas are welcome!
 
-All contributions, suggestions, and code reviews are welcome!
+### How to Contribute:
+1. ⭐ Star this repository
+2. 🍴 Fork it
+3. 🔨 Add your changes or new modules
+4. 📨 Submit a Pull Request
 
----
-
-### 🚀 Stay Connected
-- 🔗 [GitHub](https://github.com/Omii1908)
-- 💼 [LinkedIn](https://linkedin.com/in/Omii844198)
-- 📸 [Instagram](https://instagram.com/0m___19o8)
+I’d be happy to review your contributions!
 
 ---
 
-<p align="center"><b>“Knowledge gained through effort is wisdom earned through churning.”</b></p>
+## 🚀 Stay Connected
 
-<p align="center">🌀 <i>Keep Churning, Keep Learning.</i></p>
+- 🔗 **GitHub**: [Omii1908](https://github.com/Omii1908)
+- 💼 **LinkedIn**: [Omii844198](https://linkedin.com/in/Omii844198)
+- 📸 **Instagram**: [@0m___19o8](https://instagram.com/0m___19o8)
+- 📧 **Email**: [omi844198@gmail.com](mailto:omi844198@gmail.com)
+
+---
+
+<p align="center"><b>“Knowledge forms the shape of your future — build it with intent, layer by layer.”</b></p>
+<p align="center">🧱 <i>Shape your Aakar with clarity, curiosity, and consistency.</i></p>
+
